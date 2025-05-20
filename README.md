@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/sanrio.jpeg">
+  <img src="farhan.png">
 </div>
 
 <div align="center">
